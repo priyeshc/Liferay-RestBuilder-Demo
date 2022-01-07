@@ -1,0 +1,21 @@
+com/liferay/assignment/restbuilder/internal/resource/v1_0/factory/EntityResourceFactoryImpl.java
+ com.liferay.assignment.restbuilder.internal.resource.v1_0.factory.EntityResourceFactoryImpl
+ com.liferay.assignment.restbuilder.internal.resource.v1_0.factory.EntityResourceFactoryImpl$1
+ com.liferay.assignment.restbuilder.internal.resource.v1_0.factory.EntityResourceFactoryImpl$AcceptLanguageImpl
+com/liferay/assignment/restbuilder/internal/resource/v1_0/BaseEntityResourceImpl.java
+ com.liferay.assignment.restbuilder.internal.resource.v1_0.BaseEntityResourceImpl
+ com.liferay.assignment.restbuilder.internal.resource.v1_0.BaseEntityResourceImpl$1
+com/liferay/assignment/restbuilder/internal/graphql/mutation/v1_0/Mutation.java
+ com.liferay.assignment.restbuilder.internal.graphql.mutation.v1_0.Mutation
+com/liferay/assignment/restbuilder/internal/graphql/query/v1_0/Query.java
+ com.liferay.assignment.restbuilder.internal.graphql.query.v1_0.Query
+ com.liferay.assignment.restbuilder.internal.graphql.query.v1_0.Query$EntityPage
+com/liferay/assignment/restbuilder/internal/jaxrs/application/RestBuilderDemoApplication.java
+ com.liferay.assignment.restbuilder.internal.jaxrs.application.RestBuilderDemoApplication
+com/liferay/assignment/restbuilder/internal/graphql/servlet/v1_0/ServletDataImpl.java
+ com.liferay.assignment.restbuilder.internal.graphql.servlet.v1_0.ServletDataImpl
+com/liferay/assignment/restbuilder/internal/resource/v1_0/EntityResourceImpl.java
+ com.liferay.assignment.restbuilder.internal.resource.v1_0.EntityResourceImpl
+com/liferay/assignment/restbuilder/internal/resource/v1_0/OpenAPIResourceImpl.java
+ com.liferay.assignment.restbuilder.internal.resource.v1_0.OpenAPIResourceImpl
+ com.liferay.assignment.restbuilder.internal.resource.v1_0.OpenAPIResourceImpl$1

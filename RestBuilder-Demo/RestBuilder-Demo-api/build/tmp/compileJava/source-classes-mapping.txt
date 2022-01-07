@@ -1,0 +1,7 @@
+com/liferay/assignment/restbuilder/dto/v1_0/Entity.java
+ com.liferay.assignment.restbuilder.dto.v1_0.Entity
+com/liferay/assignment/restbuilder/resource/v1_0/EntityResource.java
+ com.liferay.assignment.restbuilder.resource.v1_0.EntityResource
+ com.liferay.assignment.restbuilder.resource.v1_0.EntityResource$Builder
+ com.liferay.assignment.restbuilder.resource.v1_0.EntityResource$Factory
+ com.liferay.assignment.restbuilder.resource.v1_0.EntityResource$FactoryHolder

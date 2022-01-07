@@ -1,0 +1,9 @@
+apiDir: "../RestBuilder-Demo-api/src/main/java"
+apiPackagePath: "com.liferay.assignment.restbuilder"
+application:
+    baseURI: "/RestBuilder-Demo"
+    className: "RestBuilderDemoApplication"
+    name: "RestBuilderDemo"
+author: "Argil DX"
+clientDir: "../RestBuilder-Demo-client/src/main/java"
+testDir: "../RestBuilder-Demo-test/src/testIntegration/java"

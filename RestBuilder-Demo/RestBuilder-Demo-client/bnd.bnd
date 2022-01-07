@@ -1,0 +1,3 @@
+Bundle-Name: RestBuilder-Demo-client
+Bundle-SymbolicName: com.liferay.assignment.restbuilder.client
+Bundle-Version: 1.0.0

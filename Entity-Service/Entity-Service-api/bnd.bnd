@@ -1,0 +1,10 @@
+Bundle-Name: Entity-Service-api
+Bundle-SymbolicName: com.liferay.assignment.entity.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.assignment.entity.exception,\
+	com.liferay.assignment.entity.model,\
+	com.liferay.assignment.entity.service,\
+	com.liferay.assignment.entity.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../Entity-Service-service/service.xml

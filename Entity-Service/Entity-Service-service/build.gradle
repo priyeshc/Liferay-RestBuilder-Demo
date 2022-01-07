@@ -1,0 +1,11 @@
+dependencies {
+	compile project(":modules:Entity-Service:Entity-Service-api")
+
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+}
+
+buildService {
+	apiDir = "../Entity-Service-api/src/main/java"
+}
+
+group = "com.liferay.assignment.entity"

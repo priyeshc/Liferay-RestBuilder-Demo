@@ -1,0 +1,3 @@
+Bundle-Name: RestBuilder-Demo-impl
+Bundle-SymbolicName: com.liferay.assignment.restbuilder.impl
+Bundle-Version: 1.0.0

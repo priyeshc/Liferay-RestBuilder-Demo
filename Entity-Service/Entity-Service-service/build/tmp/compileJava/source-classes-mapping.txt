@@ -1,0 +1,54 @@
+com/liferay/assignment/entity/model/impl/EntityCacheModel.java
+ com.liferay.assignment.entity.model.impl.EntityCacheModel
+com/liferay/assignment/entity/service/http/EntityServiceHttp.java
+ com.liferay.assignment.entity.service.http.EntityServiceHttp
+com/liferay/assignment/entity/service/http/EntityServiceSoap.java
+ com.liferay.assignment.entity.service.http.EntityServiceSoap
+com/liferay/assignment/entity/model/impl/EntityImpl.java
+ com.liferay.assignment.entity.model.impl.EntityImpl
+com/liferay/assignment/entity/service/persistence/impl/constants/entityPersistenceConstants.java
+ com.liferay.assignment.entity.service.persistence.impl.constants.entityPersistenceConstants
+com/liferay/assignment/entity/model/impl/EntityModelImpl.java
+ com.liferay.assignment.entity.model.impl.EntityModelImpl
+ com.liferay.assignment.entity.model.impl.EntityModelImpl$EscapedModelProxyProviderFunctionHolder
+com/liferay/assignment/entity/service/persistence/impl/EntityPersistenceImpl.java
+ com.liferay.assignment.entity.service.persistence.impl.EntityPersistenceImpl
+ com.liferay.assignment.entity.service.persistence.impl.EntityPersistenceImpl$1
+ com.liferay.assignment.entity.service.persistence.impl.EntityPersistenceImpl$EntityModelArgumentsResolver
+com/liferay/assignment/entity/model/impl/EntityServiceModelImpl.java
+ com.liferay.assignment.entity.model.impl.EntityServiceModelImpl
+ com.liferay.assignment.entity.model.impl.EntityServiceModelImpl$EscapedModelProxyProviderFunctionHolder
+com/liferay/assignment/entity/model/impl/EntityBaseImpl.java
+ com.liferay.assignment.entity.model.impl.EntityBaseImpl
+com/liferay/assignment/entity/service/persistence/impl/constants/entityServicePersistenceConstants.java
+ com.liferay.assignment.entity.service.persistence.impl.constants.entityServicePersistenceConstants
+com/liferay/assignment/entity/service/impl/EntityLocalServiceImpl.java
+ com.liferay.assignment.entity.service.impl.EntityLocalServiceImpl
+com/liferay/assignment/entity/service/impl/EntityServiceImpl.java
+ com.liferay.assignment.entity.service.impl.EntityServiceImpl
+com/liferay/assignment/entity/service/persistence/impl/EntityServicePersistenceImpl.java
+ com.liferay.assignment.entity.service.persistence.impl.EntityServicePersistenceImpl
+ com.liferay.assignment.entity.service.persistence.impl.EntityServicePersistenceImpl$1
+ com.liferay.assignment.entity.service.persistence.impl.EntityServicePersistenceImpl$EntityServiceModelArgumentsResolver
+com/liferay/assignment/entity/service/base/EntityServiceBaseImpl.java
+ com.liferay.assignment.entity.service.base.EntityServiceBaseImpl
+com/liferay/assignment/entity/service/base/EntityLocalServiceBaseImpl.java
+ com.liferay.assignment.entity.service.base.EntityLocalServiceBaseImpl
+com/liferay/assignment/entity/service/http/EntityServiceServiceHttp.java
+ com.liferay.assignment.entity.service.http.EntityServiceServiceHttp
+com/liferay/assignment/entity/service/http/EntityServiceServiceSoap.java
+ com.liferay.assignment.entity.service.http.EntityServiceServiceSoap
+com/liferay/assignment/entity/model/impl/EntityServiceCacheModel.java
+ com.liferay.assignment.entity.model.impl.EntityServiceCacheModel
+com/liferay/assignment/entity/model/impl/EntityServiceImpl.java
+ com.liferay.assignment.entity.model.impl.EntityServiceImpl
+com/liferay/assignment/entity/service/base/EntityServiceLocalServiceBaseImpl.java
+ com.liferay.assignment.entity.service.base.EntityServiceLocalServiceBaseImpl
+com/liferay/assignment/entity/service/impl/EntityServiceLocalServiceImpl.java
+ com.liferay.assignment.entity.service.impl.EntityServiceLocalServiceImpl
+com/liferay/assignment/entity/model/impl/EntityServiceBaseImpl.java
+ com.liferay.assignment.entity.model.impl.EntityServiceBaseImpl
+com/liferay/assignment/entity/service/impl/EntityServiceServiceImpl.java
+ com.liferay.assignment.entity.service.impl.EntityServiceServiceImpl
+com/liferay/assignment/entity/service/base/EntityServiceServiceBaseImpl.java
+ com.liferay.assignment.entity.service.base.EntityServiceServiceBaseImpl

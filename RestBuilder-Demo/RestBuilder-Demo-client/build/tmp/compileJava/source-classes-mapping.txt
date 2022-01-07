@@ -1,0 +1,37 @@
+com/liferay/assignment/restbuilder/client/pagination/Page.java
+ com.liferay.assignment.restbuilder.client.pagination.Page
+ com.liferay.assignment.restbuilder.client.pagination.Page$PageJSONParser
+com/liferay/assignment/restbuilder/client/function/UnsafeSupplier.java
+ com.liferay.assignment.restbuilder.client.function.UnsafeSupplier
+com/liferay/assignment/restbuilder/client/http/HttpInvoker.java
+ com.liferay.assignment.restbuilder.client.http.HttpInvoker
+ com.liferay.assignment.restbuilder.client.http.HttpInvoker$HttpMethod
+ com.liferay.assignment.restbuilder.client.http.HttpInvoker$HttpResponse
+com/liferay/assignment/restbuilder/client/pagination/Pagination.java
+ com.liferay.assignment.restbuilder.client.pagination.Pagination
+com/liferay/assignment/restbuilder/client/aggregation/Facet.java
+ com.liferay.assignment.restbuilder.client.aggregation.Facet
+ com.liferay.assignment.restbuilder.client.aggregation.Facet$FacetValue
+com/liferay/assignment/restbuilder/client/problem/Problem.java
+ com.liferay.assignment.restbuilder.client.problem.Problem
+ com.liferay.assignment.restbuilder.client.problem.Problem$1
+ com.liferay.assignment.restbuilder.client.problem.Problem$ProblemException
+ com.liferay.assignment.restbuilder.client.problem.Problem$ProblemJSONParser
+com/liferay/assignment/restbuilder/client/serdes/v1_0/EntitySerDes.java
+ com.liferay.assignment.restbuilder.client.serdes.v1_0.EntitySerDes
+ com.liferay.assignment.restbuilder.client.serdes.v1_0.EntitySerDes$EntityJSONParser
+com/liferay/assignment/restbuilder/client/json/BaseJSONParser.java
+ com.liferay.assignment.restbuilder.client.json.BaseJSONParser
+com/liferay/assignment/restbuilder/client/permission/Permission.java
+ com.liferay.assignment.restbuilder.client.permission.Permission
+ com.liferay.assignment.restbuilder.client.permission.Permission$1
+ com.liferay.assignment.restbuilder.client.permission.Permission$PermissionJSONParser
+com/liferay/assignment/restbuilder/client/dto/v1_0/Entity.java
+ com.liferay.assignment.restbuilder.client.dto.v1_0.Entity
+com/liferay/assignment/restbuilder/client/aggregation/Aggregation.java
+ com.liferay.assignment.restbuilder.client.aggregation.Aggregation
+com/liferay/assignment/restbuilder/client/resource/v1_0/EntityResource.java
+ com.liferay.assignment.restbuilder.client.resource.v1_0.EntityResource
+ com.liferay.assignment.restbuilder.client.resource.v1_0.EntityResource$1
+ com.liferay.assignment.restbuilder.client.resource.v1_0.EntityResource$Builder
+ com.liferay.assignment.restbuilder.client.resource.v1_0.EntityResource$EntityResourceImpl

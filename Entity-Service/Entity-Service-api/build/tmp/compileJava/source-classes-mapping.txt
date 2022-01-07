@@ -1,0 +1,54 @@
+com/liferay/assignment/entity/model/EntitySoap.java
+ com.liferay.assignment.entity.model.EntitySoap
+com/liferay/assignment/entity/service/EntityServiceUtil.java
+ com.liferay.assignment.entity.service.EntityServiceUtil
+com/liferay/assignment/entity/service/EntityService.java
+ com.liferay.assignment.entity.service.EntityService
+com/liferay/assignment/entity/model/EntityModel.java
+ com.liferay.assignment.entity.model.EntityModel
+com/liferay/assignment/entity/service/persistence/EntityUtil.java
+ com.liferay.assignment.entity.service.persistence.EntityUtil
+com/liferay/assignment/entity/model/EntityWrapper.java
+ com.liferay.assignment.entity.model.EntityWrapper
+com/liferay/assignment/entity/exception/NoSuchEntityException.java
+ com.liferay.assignment.entity.exception.NoSuchEntityException
+com/liferay/assignment/entity/model/Entity.java
+ com.liferay.assignment.entity.model.Entity
+ com.liferay.assignment.entity.model.Entity$1
+com/liferay/assignment/entity/service/persistence/EntityPersistence.java
+ com.liferay.assignment.entity.service.persistence.EntityPersistence
+com/liferay/assignment/entity/service/EntityServiceWrapper.java
+ com.liferay.assignment.entity.service.EntityServiceWrapper
+com/liferay/assignment/entity/service/persistence/EntityServiceUtil.java
+ com.liferay.assignment.entity.service.persistence.EntityServiceUtil
+com/liferay/assignment/entity/model/EntityServiceWrapper.java
+ com.liferay.assignment.entity.model.EntityServiceWrapper
+com/liferay/assignment/entity/model/EntityService.java
+ com.liferay.assignment.entity.model.EntityService
+ com.liferay.assignment.entity.model.EntityService$1
+com/liferay/assignment/entity/service/EntityServiceServiceUtil.java
+ com.liferay.assignment.entity.service.EntityServiceServiceUtil
+com/liferay/assignment/entity/service/EntityServiceService.java
+ com.liferay.assignment.entity.service.EntityServiceService
+com/liferay/assignment/entity/service/EntityLocalService.java
+ com.liferay.assignment.entity.service.EntityLocalService
+com/liferay/assignment/entity/exception/NoSuchEntityServiceException.java
+ com.liferay.assignment.entity.exception.NoSuchEntityServiceException
+com/liferay/assignment/entity/service/EntityLocalServiceWrapper.java
+ com.liferay.assignment.entity.service.EntityLocalServiceWrapper
+com/liferay/assignment/entity/model/EntityServiceModel.java
+ com.liferay.assignment.entity.model.EntityServiceModel
+com/liferay/assignment/entity/service/EntityLocalServiceUtil.java
+ com.liferay.assignment.entity.service.EntityLocalServiceUtil
+com/liferay/assignment/entity/service/EntityServiceServiceWrapper.java
+ com.liferay.assignment.entity.service.EntityServiceServiceWrapper
+com/liferay/assignment/entity/service/persistence/EntityServicePersistence.java
+ com.liferay.assignment.entity.service.persistence.EntityServicePersistence
+com/liferay/assignment/entity/model/EntityServiceSoap.java
+ com.liferay.assignment.entity.model.EntityServiceSoap
+com/liferay/assignment/entity/service/EntityServiceLocalServiceWrapper.java
+ com.liferay.assignment.entity.service.EntityServiceLocalServiceWrapper
+com/liferay/assignment/entity/service/EntityServiceLocalService.java
+ com.liferay.assignment.entity.service.EntityServiceLocalService
+com/liferay/assignment/entity/service/EntityServiceLocalServiceUtil.java
+ com.liferay.assignment.entity.service.EntityServiceLocalServiceUtil
